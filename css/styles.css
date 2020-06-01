@@ -1,0 +1,54 @@
+article {
+	margin: 5px 45px 10px;
+	background-color: white;
+	padding: 2px 20px;
+}
+
+nav {
+	text-align: center; 
+	background: no-repeat;
+	position: fixed;
+	z-index: 9999;
+	
+	
+}
+
+.addInfo {
+	text-align: justify; 
+	margin: 45px 0px 5px;
+	border: 4px inset #1ccc1f;
+	padding: 5px;
+	
+}
+
+#showLevels {
+	display: inline-block;
+	
+}
+
+.card {
+	float: left ;
+        min-width: 300px;
+}
+
+.alert-primary{
+	text-align: center;
+}
+
+.addInfo h3 {
+	color: green;
+}
+
+.because {
+	padding-top: 30px;
+}
+
+#levelsCase, #howCase, #aboutCase, #feedbackCase  {
+	display: none;
+}
+
+ 
+ .alert {
+	 width: 100%;
+ }
+ 
